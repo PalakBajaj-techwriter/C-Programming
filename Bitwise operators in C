@@ -8,4 +8,4 @@ over hardware operations.
 Following table displays the 6 bitwise operators used in C language:
 | Sr. No. | Symbol Used     | Description                                              |
 | :-------| :-------------: | --------------------------------------------------------:|
-| 1.      | &               | Sets the resulting bit to 1 only if both the bits are 1. |                               Otherwise, sets the resulting bit to 0.  |
+| 1.      | &               | Sets the resulting bit to 1 only if both the bits are 1. |                               
