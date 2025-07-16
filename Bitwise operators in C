@@ -1,0 +1,11 @@
+#Bit-wise operators in C
+
+###What are bitwise operators?
+Carefully looking at the term, you will notice the term “bit”. Bit is the smallest unit of data in computing (0s and 1s). This means the operators that work on the smallest unit of data in 
+computing are known as bitwise operators. These operators manipulate one bit at a time rather than working on the whole number. They allow precise manipulation of bits, giving you control 
+over hardware operations.
+
+Following table displays the 6 bitwise operators used in C language:
+| Sr. No. | Symbol Used     | Description                                              |
+| :-------| :-------------: | --------------------------------------------------------:|
+| 1.      | &               | Sets the resulting bit to 1 only if both the bits are 1. |                               Otherwise, sets the resulting bit to 0.  |
